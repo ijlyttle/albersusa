@@ -13,6 +13,7 @@ Description: Creating a composite projection for states and counties of the Unit
 URL: https://github.com/hrbrmstr/albersusa
 BugReports: https://github.com/hrbrmstr/albersusa/issues
 License: MIT + file LICENSE
+SystemRequirements: gdal, udunits-2
 Suggests:
     testthat,
     ggalt,
